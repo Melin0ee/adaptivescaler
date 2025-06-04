@@ -1,0 +1,14 @@
+{
+    "id": "Adaptive_Antes",
+    "name": "Adaptive Antes",
+    "display_name": "Adaptive Antes",
+    "author": ["Melinoe"],
+    "description": "Scales next ante based on best hand so far during the run.",
+    "prefix": "ABS",
+    "main_file": "main.lua",
+    "priority": 100,
+    "badge_colour": "#8e44ad",
+    "badge_text_colour": "#ffffff",
+    "version": "1.0.0",
+  "dependencies": []
+}
