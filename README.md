@@ -2,7 +2,9 @@
 
 ## Overview
 The Adaptive Boss Scaler mod scales the next ante based on the best hand during a boss blind. This mod enhances gameplay by dynamically adjusting the ante, providing a more engaging experience.
-
+## Features to come
+1.Compatibility with green/purple stake
+2. Difficulty selection
 ## Installation
 1. Ensure Steammodded is installed
 2. Download the Adaptive Boss Scaler mod files.
